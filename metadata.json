@@ -1,0 +1,6 @@
+{
+  "name": "MakeMyTrip AI Smart Trip Planner",
+  "description": "Multi-stage intelligent trip planner with real-time budget tracking, dynamic transit, hotels, side-excursions, and custom itinerary timeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
